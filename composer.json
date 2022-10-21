@@ -10,6 +10,7 @@
         "phpunit/phpunit": "^8.5",
         "overtrue/phplint": "^3.2"
     },
+    "license": "mit",
     "autoload": {
         "psr-4": {
             "Aleksandr\\" : "src/App"
